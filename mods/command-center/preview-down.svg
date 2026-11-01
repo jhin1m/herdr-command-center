@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#060607"/><rect width="800" height="34" fill="#0f0f10"/><rect x="14" y="8" width="4" height="18" fill="#ff8a1f"/>
+<g font-family="monospace" font-size="12" fill="#ece4d6"><text x="26" y="22">COMMAND CENTER</text><text x="300" y="22" fill="#ffc23d">CONDITION YELLOW</text><text x="700" y="22">03:41:07</text></g>
+<rect x="8" y="42" width="784" height="200" fill="#0b0b0c" stroke="#ff8a1f"/><rect x="8" y="42" width="784" height="20" fill="#0f0f10"/><rect x="8" y="42" width="44" height="20" fill="#ff8a1f"/>
+<rect x="0" y="250" width="800" height="24" fill="#0f0f10"/><rect x="0" y="250" width="110" height="24" fill="#7fcf8a"/>
+<g fill="none" stroke="#3a2b1b"><rect x="0.5" y="274.5" width="560" height="175"/><rect x="560.5" y="274.5" width="239" height="175"/></g>
+<rect x="1" y="300" width="3" height="18" fill="#ff8a1f"/><rect x="60" y="303" width="46" height="12" fill="#4c8dff"/><rect x="60" y="323" width="46" height="12" fill="#a879ff"/>
+<g font-family="monospace" font-size="9" fill="#7a6f60"><text x="8" y="440">SCHEMATIC, NOT A CAPTURE</text></g>
+</svg>

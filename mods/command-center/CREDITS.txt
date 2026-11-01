@@ -1,0 +1,4 @@
+gundam-lines.png: edge-traced from "Life-Sized Unicorn Gundam Statue.jpg", Wikimedia Commons, CC0 (public domain dedication).
+https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg
+Gundam and Unicorn Gundam are trademarks of Sotsu / Sunrise; this is a personal desktop theme.
+fonts/ChakraPetch-*.ttf: SIL Open Font License 1.1, see fonts/OFL.txt.

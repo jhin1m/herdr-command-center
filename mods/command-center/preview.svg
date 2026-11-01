@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#060607"/>
+<rect width="800" height="34" fill="#0f0f10"/><rect x="14" y="8" width="4" height="18" fill="#ff8a1f"/>
+<g font-family="monospace" font-size="12" fill="#ece4d6"><text x="26" y="22">COMMAND CENTER</text><text x="200" y="22" fill="#ff8a1f">SORTIE 01</text><text x="290" y="22" fill="#ff3b30">ALERT 01</text><text x="700" y="22">03:41:07</text></g>
+<g fill="none" stroke="#3a2b1b"><rect x="0.5" y="34.5" width="560" height="160"/><rect x="560.5" y="34.5" width="239" height="160"/></g>
+<g fill="#ff8a1f"><rect x="0" y="35" width="10" height="2"/><rect x="0" y="35" width="2" height="10"/><rect x="551" y="35" width="10" height="2"/><rect x="559" y="35" width="2" height="10"/></g>
+<rect x="1" y="66" width="3" height="18" fill="#ff8a1f"/><rect x="1" y="86" width="559" height="18" fill="#2a0d0a"/><rect x="1" y="86" width="3" height="18" fill="#ff3b30"/>
+<g font-family="monospace" font-size="10" fill="#b3a691"><text x="14" y="78">t6  ■ SORTIE   Herdr app</text><text x="14" y="98" fill="#ff3b30">t8  ▲ ALERT    koharu-rs</text><text x="14" y="118">t7  □ STANDBY  Claude Code</text><text x="14" y="138">t9  □ STANDBY  Flash UI</text></g>
+<g fill="#141415"><rect x="568" y="66" width="224" height="50"/><rect x="568" y="122" width="224" height="50"/></g>
+<rect x="568" y="66" width="3" height="50" fill="#ff8a1f"/><rect x="580" y="94" width="20" height="14" fill="#ff8a1f"/>
+<rect x="0" y="195" width="800" height="24" fill="#1a0907"/><rect x="0" y="195" width="74" height="24" fill="#ff3b30"/>
+<g fill="#ff3b30"><path d="M80 219 92 195h7l-12 24Z"/><path d="M96 219 108 195h7l-12 24Z"/></g>
+<rect x="8" y="227" width="784" height="215" fill="#0b0b0c" stroke="#ff8a1f"/><rect x="8" y="227" width="784" height="20" fill="#0f0f10"/><rect x="8" y="227" width="44" height="20" fill="#ff8a1f"/>
+<g font-family="monospace" font-size="10" fill="#ece4d6"><text x="20" y="270">&gt; refreshing the token cache...</text><text x="20" y="288" fill="#7fcf8a">  12 tests passing</text><text x="8" y="440" fill="#7a6f60" font-size="9">SCHEMATIC, NOT A CAPTURE</text></g>
+</svg>

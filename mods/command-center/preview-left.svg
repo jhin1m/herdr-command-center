@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="#060607"/>
+<rect width="800" height="34" fill="#0f0f10"/><g transform="translate(800 0) scale(-1 1)"><rect x="14" y="8" width="4" height="18" fill="#ff8a1f"/>
+<g font-family="monospace" font-size="12" fill="#ece4d6"><text x="26" y="22">COMMAND CENTER</text><text x="200" y="22" fill="#ff8a1f">SORTIE 01</text><text x="290" y="22" fill="#ff3b30">ALERT 01</text><text x="700" y="22">03:41:07</text></g>
+<rect x="0" y="35" width="560" height="24" fill="#1a0907"/><rect x="0" y="35" width="74" height="24" fill="#ff3b30"/>
+<g fill="#ff3b30"><path d="M80 59 92 35h7l-12 24Z"/><path d="M96 59 108 35h7l-12 24Z"/></g>
+<rect x="8" y="66" width="544" height="376" fill="#0b0b0c" stroke="#ff8a1f"/><rect x="8" y="66" width="544" height="20" fill="#0f0f10"/><rect x="8" y="66" width="44" height="20" fill="#ff8a1f"/>
+<g fill="none" stroke="#ff8a1f"><rect x="420" y="70" width="14" height="12" fill="#ff8a1f"/><rect x="438" y="70" width="14" height="12"/></g>
+<g font-family="monospace" font-size="10" fill="#ece4d6"><text x="20" y="110">&gt; refreshing the token cache...</text><text x="20" y="128" fill="#7fcf8a">  12 tests passing</text></g>
+<rect x="561" y="35" width="239" height="415" fill="#060607" stroke="#3a2b1b"/>
+<g fill="#141415"><rect x="565" y="64" width="231" height="52"/><rect x="565" y="120" width="231" height="52"/><rect x="565" y="176" width="231" height="52"/></g>
+<rect x="565" y="64" width="3" height="52" fill="#ff8a1f"/><rect x="565" y="120" width="3" height="52" fill="#ff3b30"/><rect x="565" y="176" width="3" height="52" fill="#3a2b1b"/>
+<g font-family="monospace" font-size="10" fill="#b3a691"><text x="574" y="80">t6 ■ SORTIE</text><text x="574" y="136" fill="#ff3b30">t8 ▲ ALERT</text><text x="574" y="192">t7 □ STANDBY</text><text x="574" y="300" fill="#ff8a1f">SECTORS</text><text x="8" y="440" fill="#7a6f60" font-size="9">SCHEMATIC, NOT A CAPTURE</text></g>
+<g fill="#141415"><rect x="565" y="310" width="231" height="28"/><rect x="565" y="342" width="231" height="28"/></g>
+</g></svg>

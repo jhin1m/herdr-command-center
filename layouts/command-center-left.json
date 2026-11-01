@@ -1,0 +1,147 @@
+{
+  "id": "ccl-root",
+  "type": "column",
+  "titlebar": "none",
+  "traffic_lights": [
+    16,
+    14
+  ],
+  "theme": "command-center",
+  "preview": "mods/command-center/preview-left.svg",
+  "font": "JetBrains Mono",
+  "font_size": 13,
+  "ui_font": "Chakra Petch",
+  "terminal_padding": [
+    10,
+    12
+  ],
+  "terminal_opacity": 1,
+  "background": "canvas",
+  "divider": {
+    "width": 1,
+    "color": "border"
+  },
+  "resizable": false,
+  "children": [
+    {
+      "id": "ccl-topbar",
+      "type": "block",
+      "size": {
+        "px": 44
+      },
+      "window_drag": true,
+      "content": {
+        "mod": "command-center",
+        "props": {
+          "role": "topbar"
+        }
+      }
+    },
+    {
+      "id": "ccl-body",
+      "type": "row",
+      "divider": {
+        "width": 1,
+        "color": "border"
+      },
+      "children": [
+        {
+          "id": "ccl-side",
+          "type": "column",
+          "size": {
+            "px": 420
+          },
+          "min": 300,
+          "max": 760,
+          "divider": {
+            "width": 1,
+            "color": "border"
+          },
+          "children": [
+            {
+              "id": "ccl-units",
+              "type": "block",
+              "min": 120,
+              "content": {
+                "mod": "command-center",
+                "props": {
+                  "role": "units",
+                  "compact": true
+                }
+              }
+            },
+            {
+              "id": "ccl-sectors",
+              "type": "block",
+              "size": {
+                "px": 230
+              },
+              "min": 100,
+              "max": 600,
+              "content": {
+                "mod": "command-center",
+                "props": {
+                  "role": "sectors"
+                }
+              }
+            }
+          ]
+        },
+        {
+          "id": "ccl-main",
+          "type": "column",
+          "resizable": false,
+          "children": [
+            {
+              "id": "ccl-alert",
+              "type": "block",
+              "size": {
+                "px": 30
+              },
+              "content": {
+                "mod": "command-center",
+                "props": {
+                  "role": "alert"
+                }
+              }
+            },
+            {
+              "id": "ccl-live",
+              "type": "block",
+              "padding": 8,
+              "min": 120,
+              "content": {
+                "tab": "active",
+                "pane": {
+                  "gap": 8,
+                  "radius": 0,
+                  "background": "background",
+                  "lone": true,
+                  "border": {
+                    "width": 1,
+                    "color": "border"
+                  },
+                  "focus": {
+                    "width": 1,
+                    "color": "accent"
+                  },
+                  "header": {
+                    "content": {
+                      "mod": "command-center",
+                      "props": {
+                        "role": "pane"
+                      }
+                    },
+                    "height": 24,
+                    "position": "top",
+                    "reveal": "always"
+                  }
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
